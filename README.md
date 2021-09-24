@@ -1,16 +1,24 @@
-### Hi there 👋
+Oiii! Eu sou a Fernanda Garcia Duarte da Silva 👋
 
-<!--
-**fernanda1211/fernanda1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Meu nome é Fabricio Ferreira, sou desenvolvedor de <strong>PHP</strong>. Estou disponível para freelas/trabalho, caso tenha interesse em me conhecer,entre em contato.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🚀 Habilidades: <strong>PHP, Javascript.</strong>
+</p>
+
+Social 
+
+
+<p align="left">
+  <a href="mailto:fgduarte01@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fgduarte01@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/fabricioferreiradev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioferreiradev/" /></a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5521987330309" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
