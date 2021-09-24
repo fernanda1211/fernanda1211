@@ -1,24 +1,31 @@
-Oiii! Eu sou a Fernanda Garcia Duarte da Silva 👋
+Oiii! Eu sou a Fernanda Garcia Duarte da Silva ✨
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<p align="left"> 
-  Meu nome é Fabricio Ferreira, sou desenvolvedor de <strong>PHP</strong>. Estou disponível para freelas/trabalho, caso tenha interesse em me conhecer,entre em contato.
-</p>
-
-<p align="left">
-  🚀 Habilidades: <strong>PHP, Javascript.</strong>
-</p>
-
-Social 
-
-
-<p align="left">
-  <a href="mailto:fgduarte01@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fgduarte01@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/fabricioferreiradev/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioferreiradev/" /></a>
+<div align="center">
+  <a href="https://github.com/fernanda1211">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda1211&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda1211&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
-  <a href="https://api.whatsapp.com/send?phone=5521987330309" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+ Lover of Technology and Coding 💓  
+ 
+<div style="display: inline_block">
+  <img align="center" alt="fernanda1211-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fernanda1211-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="fernanda1211-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="fernanda1211-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fernanda1211-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="fernanda1211-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  
+ ##
+
+<div align="center"> 
+    <a href="https://youtube.com/channel/UCm05U9sckj_ricDkUSADnvg" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/channel/UCm05U9sckj_ricDkUSADnvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fgduarte01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/fgduarte01" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/M2sSCfK2zh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fgduarte01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+ 
